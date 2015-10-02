@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8EC9B4741BBEFDA10016737B"
-               BuildableName = "Ashgabat2017Test.app"
-               BlueprintName = "Ashgabat2017Test"
-               ReferencedContainer = "container:Ashgabat2017Test.xcodeproj">
+               BuildableName = "Stretchy-Headers.app"
+               BlueprintName = "Stretchy-Headers"
+               ReferencedContainer = "container:Stretchy-Headers.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8EC9B48B1BBEFDA20016737B"
-               BuildableName = "Ashgabat2017TestTests.xctest"
-               BlueprintName = "Ashgabat2017TestTests"
-               ReferencedContainer = "container:Ashgabat2017Test.xcodeproj">
+               BuildableName = "Stretchy-Headers.xctest"
+               BlueprintName = "Stretchy-HeadersTests"
+               ReferencedContainer = "container:Stretchy-Headers.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8EC9B4961BBEFDA20016737B"
-               BuildableName = "Ashgabat2017TestUITests.xctest"
-               BlueprintName = "Ashgabat2017TestUITests"
-               ReferencedContainer = "container:Ashgabat2017Test.xcodeproj">
+               BuildableName = "Stretchy-Headers.xctest"
+               BlueprintName = "Stretchy-HeadersUITests"
+               ReferencedContainer = "container:Stretchy-Headers.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8EC9B4741BBEFDA10016737B"
-            BuildableName = "Ashgabat2017Test.app"
-            BlueprintName = "Ashgabat2017Test"
-            ReferencedContainer = "container:Ashgabat2017Test.xcodeproj">
+            BuildableName = "Stretchy-Headers.app"
+            BlueprintName = "Stretchy-Headers"
+            ReferencedContainer = "container:Stretchy-Headers.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8EC9B4741BBEFDA10016737B"
-            BuildableName = "Ashgabat2017Test.app"
-            BlueprintName = "Ashgabat2017Test"
-            ReferencedContainer = "container:Ashgabat2017Test.xcodeproj">
+            BuildableName = "Stretchy-Headers.app"
+            BlueprintName = "Stretchy-Headers"
+            ReferencedContainer = "container:Stretchy-Headers.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8EC9B4741BBEFDA10016737B"
-            BuildableName = "Ashgabat2017Test.app"
-            BlueprintName = "Ashgabat2017Test"
-            ReferencedContainer = "container:Ashgabat2017Test.xcodeproj">
+            BuildableName = "Stretchy-Headers.app"
+            BlueprintName = "Stretchy-Headers"
+            ReferencedContainer = "container:Stretchy-Headers.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
