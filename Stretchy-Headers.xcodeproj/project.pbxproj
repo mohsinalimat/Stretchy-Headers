@@ -97,9 +97,9 @@
 		8EC9B46C1BBEFDA10016737B = {
 			isa = PBXGroup;
 			children = (
-				8EC9B4771BBEFDA10016737B /* Ashgabat2017Test */,
-				8EC9B48F1BBEFDA20016737B /* Ashgabat2017TestTests */,
-				8EC9B49A1BBEFDA20016737B /* Ashgabat2017TestUITests */,
+				8EC9B4771BBEFDA10016737B /* StretchHeadersTest */,
+				8EC9B48F1BBEFDA20016737B /* StretchHeadersTestTests */,
+				8EC9B49A1BBEFDA20016737B /* StretchHeadersTestUITests */,
 				8EC9B4761BBEFDA10016737B /* Products */,
 				4790410A00A05CEE460F19A5 /* Pods */,
 				FE559C1D8811FB936F81941F /* Frameworks */,
@@ -116,7 +116,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		8EC9B4771BBEFDA10016737B /* Ashgabat2017Test */ = {
+		8EC9B4771BBEFDA10016737B /* StretchHeadersTest */ = {
 			isa = PBXGroup;
 			children = (
 				8EC9B4781BBEFDA10016737B /* AppDelegate.swift */,
@@ -129,24 +129,27 @@
 				8EC9B4871BBEFDA20016737B /* Info.plist */,
 				8EC9B47F1BBEFDA10016737B /* Ashgabat2017Test.xcdatamodeld */,
 			);
+			name = StretchHeadersTest;
 			path = Ashgabat2017Test;
 			sourceTree = "<group>";
 		};
-		8EC9B48F1BBEFDA20016737B /* Ashgabat2017TestTests */ = {
+		8EC9B48F1BBEFDA20016737B /* StretchHeadersTestTests */ = {
 			isa = PBXGroup;
 			children = (
 				8EC9B4901BBEFDA20016737B /* Ashgabat2017TestTests.swift */,
 				8EC9B4921BBEFDA20016737B /* Info.plist */,
 			);
+			name = StretchHeadersTestTests;
 			path = Ashgabat2017TestTests;
 			sourceTree = "<group>";
 		};
-		8EC9B49A1BBEFDA20016737B /* Ashgabat2017TestUITests */ = {
+		8EC9B49A1BBEFDA20016737B /* StretchHeadersTestUITests */ = {
 			isa = PBXGroup;
 			children = (
 				8EC9B49B1BBEFDA20016737B /* Ashgabat2017TestUITests.swift */,
 				8EC9B49D1BBEFDA20016737B /* Info.plist */,
 			);
+			name = StretchHeadersTestUITests;
 			path = Ashgabat2017TestUITests;
 			sourceTree = "<group>";
 		};
